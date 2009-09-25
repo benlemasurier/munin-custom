@@ -2,7 +2,7 @@
 #
 # Modifications <ben.lemasurier@gmail.com>
 #
-# - The way IMAP connections are handled is just stupid, not to mention wrong.
+# - data precedence reordering
 #
 # Copyright Jean-Samuel Reynaud <js.reynaud@free.fr>
 # Licenced under GPL v2
